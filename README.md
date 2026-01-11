@@ -13,6 +13,8 @@ This project simulates that real-world challenge and delivers a **centralized, B
 Transform raw, messy data into reliable insights using a **Bronze–Silver–Gold Medallion Architecture**.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a5d42fe7-f637-4f56-ab83-18cbbf7a8b2f" />
+
 
 ## 🏗️ Architecture
 
